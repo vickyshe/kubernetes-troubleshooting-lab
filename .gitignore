@@ -1,0 +1,24 @@
+# Environment files
+.env
+.env.*
+
+# Secrets and credentials
+*.key
+*.pem
+*.p12
+*.pfx
+kubeconfig
+
+# Temporary files
+*.log
+*.tmp
+
+# Local editor settings
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
