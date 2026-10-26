@@ -8,7 +8,7 @@
 
 **Platform:** Windows / Docker Desktop
 
-**Status:** Closed — Cluster Deleted
+**Status:** Closed | Cluster Deleted
 
 **Root Cause:** Not Confirmed
 
