@@ -17,7 +17,7 @@ This repository documents issues encountered during cluster initialization, conf
 
 | ID  | Incident                                                                                       | Status                  |
 | --- | ---------------------------------------------------------------------------------------------- | ----------------------- |
-| 001 | [Minikube Control Plane Initialization Failure](incidents/001-control-plane-initialization.md) | Root cause undetermined |
+| 001 | [Minikube Control Plane Initialization Failure](../kubernetes-troubleshooting-lab/incidents/001-api-server-failure.md) | Root cause undetermined |
 
 ## Repository Structure
 
@@ -27,7 +27,6 @@ kubernetes-troubleshooting/
 ├── .gitignore
 ├── incidents/
 ├── screenshots/
-└── videos/
 ```
 
 ## Documentation
